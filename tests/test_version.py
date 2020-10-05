@@ -1,4 +1,4 @@
-from example.version import VERSION, __version__
+from example.version import VERSION, __version__  # TODO
 
 
 def test_version():
